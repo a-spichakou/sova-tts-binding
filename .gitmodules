@@ -1,6 +1,6 @@
 [submodule "backend/tacotron2"]
 	path = backend/tacotron2
-	url = https://github.com/sovaai/sova-tts-engine
+	url = https://github.com/a-spichakou/sova-tts-engine
 [submodule "backend/waveglow"]
 	path = backend/waveglow
-	url = https://github.com/sovaai/sova-tts-vocoder
+	url = https://github.com/a-spichakou/sova-tts-vocoder
